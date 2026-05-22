@@ -1,0 +1,6 @@
+{
+  "name": "Peminjaman Ruangan & Barang",
+  "description": "Sistem informasi peminjaman ruangan dan barang dengan kalender booking interaktif, validasi jadwal otomatis (H-3, jam operasional), tanda tangan digital, dan pengelolaan inventaris.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
